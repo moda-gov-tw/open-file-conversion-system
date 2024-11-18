@@ -1,0 +1,48 @@
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+This project uses multiple third-party libraries.
+
+If you need more licensing information, please refer to the 'license-rules' folder in the project, which contains the detailed license files for all third-party libraries.
+
+Lists of 27 third-party dependencies.
+     (Eclipse Public License - v 1.0) (GNU Lesser General Public License) Logback Classic Module (ch.qos.logback:logback-classic:1.5.7 - http://logback.qos.ch/logback-classic)
+     (Eclipse Public License - v 1.0) (GNU Lesser General Public License) Logback Core Module (ch.qos.logback:logback-core:1.5.7 - http://logback.qos.ch/logback-core)
+     (Apache-2.0) Gson (com.google.code.gson:gson:2.10.1 - https://github.com/google/gson/gson)
+     (The Apache Software License, Version 2.0) micrometer-commons (io.micrometer:micrometer-commons:1.13.3 - https://github.com/micrometer-metrics/micrometer)
+     (The Apache Software License, Version 2.0) micrometer-observation (io.micrometer:micrometer-observation:1.13.3 - https://github.com/micrometer-metrics/micrometer)
+     (EPL 2.0) (GPL2 w/ CPE) Jakarta Annotations API (jakarta.annotation:jakarta.annotation-api:2.1.1 - https://projects.eclipse.org/projects/ee4j.ca)
+     (Apache-2.0) Apache Log4j API (org.apache.logging.log4j:log4j-api:2.23.1 - https://logging.apache.org/log4j/2.x/log4j/log4j-api/)
+     (Apache-2.0) Apache Log4j to SLF4J Adapter (org.apache.logging.log4j:log4j-to-slf4j:2.23.1 - https://logging.apache.org/log4j/2.x/log4j/log4j-to-slf4j/)
+     (The Apache License, Version 2.0) JODConverter Core (org.jodconverter:jodconverter-core:4.4.8 - https://github.com/jodconverter/jodconverter)
+     (The Apache License, Version 2.0) JODConverter Local (org.jodconverter:jodconverter-local:4.4.8 - https://github.com/jodconverter/jodconverter)
+     (The Apache License, Version 2.0) Java Uno Helper (org.openoffice:juh:4.1.2 - https://wiki.openoffice.org/wiki/Uno)
+     (The Apache License, Version 2.0) Java Uno RunTime (org.openoffice:jurt:4.1.2 - https://wiki.openoffice.org/wiki/Uno)
+     (The Apache License, Version 2.0) Java Runtime Interface Definition Library (org.openoffice:ridl:4.1.2 - https://wiki.openoffice.org/wiki/Uno)
+     (The Apache License, Version 2.0) UNO interface library (org.openoffice:unoil:4.1.2 - https://wiki.openoffice.org/wiki/Uno)
+     (MIT License) JUL to SLF4J bridge (org.slf4j:jul-to-slf4j:2.0.16 - http://www.slf4j.org)
+     (MIT License) SLF4J API Module (org.slf4j:slf4j-api:2.0.16 - http://www.slf4j.org)
+     (Apache License, Version 2.0) Spring AOP (org.springframework:spring-aop:6.1.12 - https://github.com/spring-projects/spring-framework)
+     (Apache License, Version 2.0) Spring Beans (org.springframework:spring-beans:6.1.12 - https://github.com/spring-projects/spring-framework)
+     (Apache License, Version 2.0) Spring Context (org.springframework:spring-context:6.1.12 - https://github.com/spring-projects/spring-framework)
+     (Apache License, Version 2.0) Spring Core (org.springframework:spring-core:6.1.12 - https://github.com/spring-projects/spring-framework)
+     (Apache License, Version 2.0) Spring Expression Language (SpEL) (org.springframework:spring-expression:6.1.12 - https://github.com/spring-projects/spring-framework)
+     (Apache License, Version 2.0) Spring Commons Logging Bridge (org.springframework:spring-jcl:6.1.12 - https://github.com/spring-projects/spring-framework)
+     (Apache License, Version 2.0) spring-boot (org.springframework.boot:spring-boot:3.3.3 - https://spring.io/projects/spring-boot)
+     (Apache License, Version 2.0) spring-boot-autoconfigure (org.springframework.boot:spring-boot-autoconfigure:3.3.3 - https://spring.io/projects/spring-boot)
+     (Apache License, Version 2.0) spring-boot-starter (org.springframework.boot:spring-boot-starter:3.3.3 - https://spring.io/projects/spring-boot)
+     (Apache License, Version 2.0) spring-boot-starter-logging (org.springframework.boot:spring-boot-starter-logging:3.3.3 - https://spring.io/projects/spring-boot)
+     (Apache License, Version 2.0) SnakeYAML (org.yaml:snakeyaml:2.2 - https://bitbucket.org/snakeyaml/snakeyaml)
