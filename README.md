@@ -36,10 +36,10 @@ Apache License 2.0
 
 ```bat
 # 執行步驟
-> git clone https://gitlab.iisigroup.com/ps150/g-p231301/modapc/documentconverter.git
-> cd documentConverter
+> git clone https://github.com/TsubasaRush/open-file-conversion-system.git
+> cd open-file-conversion-system
 > mvn clean package
-> java -jar target/documentConverter-0.0.1-SNAPSHOT.jar
+> java -jar target/open-file-conversion-system-0.0.1-SNAPSHOT.jar
 ```
 ## 結果展示
 

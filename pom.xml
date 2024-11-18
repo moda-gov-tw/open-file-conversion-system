@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.iisigroup</groupId>
-    <artifactId>documentConverter</artifactId>
+    <artifactId>open-file-conversion-system</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>documentConverter</name>
-    <description>documentConverter</description>
+    <name>open-file-conversion-system</name>
+    <description>open-file-conversion-system</description>
     <url/>
     <licenses>
         <license/>
